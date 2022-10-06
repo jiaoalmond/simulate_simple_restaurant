@@ -1,5 +1,3 @@
-//Jinyu JIAO 260881046
-
 //A work table which for chefs to place burger or Fries.
 //You need to handle race condition here.
 public class KitchenTable {
