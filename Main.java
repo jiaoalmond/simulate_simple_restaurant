@@ -1,4 +1,3 @@
-//Jinyu JIAO 260881046
 //Here is the driver class
 public class Main {
 
