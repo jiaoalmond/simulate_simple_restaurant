@@ -1,5 +1,3 @@
-//Jinyu JIAO 260881046
-
 // You are free to add any attributes or methods you need.
 public class BurgerChef implements Runnable {
 	private String name = "BurgerChef";
