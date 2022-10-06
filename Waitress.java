@@ -1,5 +1,3 @@
-//Jinyu JIAO 260881046
-
 // You are free to add any attributes or methods you need.
 public class Waitress implements Runnable {
 	private String name = "Waitress";
