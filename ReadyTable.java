@@ -1,5 +1,3 @@
-//Jinyu JIAO 260881046
-
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
